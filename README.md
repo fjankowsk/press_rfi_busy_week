@@ -1,2 +1,3 @@
-# press_rfi_busy_week
+# PRESS RFI excision busy week #
+
 Code for the PRESS RFI excision busy week.
